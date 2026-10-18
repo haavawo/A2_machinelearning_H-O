@@ -1,0 +1,14 @@
+By Håvar and Oskar.
+This project explores the supplied diabetes survey dataset and uses Logistic Regression for binary classification.
+The notebook includes exploratory data analysis of all 21 input features, a stratified TRAIN/TEST split, preprocessing, model evaluation, and a comparison of decision thresholds 0.50 and 0.40.
+
+HOWTO:
+Download the repository files.
+
+Place diabetes_binary_classification_data.csv in the same folder as the notebook. If it is not included in the repository, obtain it from the assignment materials in Canvas.
+
+Use a Python environment with Jupyter, pandas, matplotlib, seaborn, and scikit-learn installed.
+
+Open the .ipynb notebook and run all cells from top to bottom.
+
+Class 0 means no diabetes. Class 1 means prediabetes or diabetes.
